@@ -93,7 +93,7 @@ Install-Build-Required: false
 #Source-Url: https://github.com/qiushui/perlv2cart.git
 #Source-Url: git://github.com/qiushui/perlv2cart.git
 #Source-Url: https://github.com/qiushui/perlv2cart/raw/master/perlv2cart.zip
-#Source-Url: file:///root/perlv2cart/
+Source-Url: file:///root/1/perlv2cart/
 #Source-Url: file:///Users/qiuzhang/tmp/perlv2cart/
 #Source-Url: http://baidu.com
 #Source-Url: git://github.com/test
