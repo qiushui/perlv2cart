@@ -1,4 +1,5 @@
-Name: 6.p-rl
+Name: perl
+#Name: 6.p-rl
 Cartridge-Short-Name: PERL
 Display-Name: Perl 5.10
 Description: "Perl is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. Popular development frameworks include: CakePerl, Zend, Symfony, and Code Igniter."
@@ -7,7 +8,7 @@ License: "GPL v2"
 License-Url: http://dev.perl.org/licenses/
 Vendor: perl.org
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: qiushui
+Cartridge-Vendor: redhat
 Categories:
   - service
   - perl
