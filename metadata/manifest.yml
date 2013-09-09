@@ -1,4 +1,4 @@
-Name: perlHp
+Name: perl
 #Name: 6.p-rl
 Cartridge-Short-Name: PERL
 Display-Name: Perl 5.10
@@ -8,7 +8,7 @@ License: "GPL v2"
 License-Url: http://dev.perl.org/licenses/
 Vendor: perl.org
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: 22qiuzhang
+Cartridge-Vendor: redhat
 Categories:
   - service
   - perl
